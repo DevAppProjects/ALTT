@@ -1,7 +1,7 @@
 {
-  "dialogTitle": "DEV MODS",
-  "apiKey": "9b237ab24a97b98f2fdd1797ffa0b2e7a70aa8e4",
-  "apiDomain": "arlinks.in",
+  "dialogTitle": "Mod By @FindModApks",
+  "apiKey": "bb8d028cc8c922f2329b922b2d259ba197f1795b",
+  "apiDomain": "link4earn.com",
   "firebaseDbUrl": "https://devapps-cbbc4-default-rtdb.asia-southeast1.firebasedatabase.app",
   "tokenRequestUrl": "https://myappsdev.netlify.app/.netlify/functions/request-token",
 
