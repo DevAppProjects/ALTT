@@ -8,12 +8,12 @@
   "verification": {
     "longUrl": "https://myappsdev.netlify.app/verify",
     "useHours": true,
-    "durationHours": 6,
+    "durationHours": 120,
     "durationMinutes": 5
   },
 
   "links": {
-    "joinUs": "https://t.me/YammyMods",
+    "joinUs": "https://telegram.me/FindModApks",
     "contact": "https://t.me/GG_YAMIN",
     "tutorial": "https://youtube.com/@yaminahmed?si=RyfMAqKiFz7I8gg3"
   },
